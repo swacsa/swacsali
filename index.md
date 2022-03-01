@@ -1,7 +1,7 @@
 
 ## Welcome to Swacsali
 
-A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#q) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
+A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#l) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
 
 
 It még lesz egy csomó minden
@@ -32,7 +32,7 @@ It még lesz egy csomó minden
 # K
 
 # L
-[Leonard Cohen - Hallelujah(]https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/L_50_LeonardC-Hallelujah.png)
+[Leonard Cohen - Hallelujah](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/L_50_LeonardC-Hallelujah.png)
 
 # M
 
