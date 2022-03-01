@@ -1,23 +1,71 @@
 
 ## Welcome to Swacsali
 
-A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
+A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#q) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
 
 
 It még lesz egy csomó minden
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
+# A
 
+# B
+
+# C 
+
+# D
+
+# E
+
+# F
+
+# G
+
+# H
+
+# I
+
+# J
+
+# K
+
+# L
+[Leonard Cohen - Hallelujah(]https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/L_50_LeonardC-Hallelujah.png)
+
+# M
+
+# N
+
+# O
+
+# P
 
 # Q
-## Quimby
 [Quimby - Ajjajj - page1](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/Q_50_Quimby-Ajjajjaj_A.png)
 [Quimby - Ajjajj - page2](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/Q_50_Quimby-Ajjajjaj_B.png)
 
+# R
 
+# S
+
+# T
+
+# V
+
+# W
+
+# X
+
+# Y
+
+# Z
+
+
+===========================================
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ## Welcome to GitHub Pages
 
