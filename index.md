@@ -1,13 +1,14 @@
 
 ## Welcome to Swacsali
 
-A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#l) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
+0 | A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#l) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
 
 
 It még lesz egy csomó minden
 
 
-
+# 0
+[Dr. Bubó](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/R_50_Romhanyi-Dr_Bubo.png)
 
 # A
 
