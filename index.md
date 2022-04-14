@@ -6,8 +6,9 @@
 
 Itt még lesz egy csomó minden
 
-[Pénzes féle gitáriskola - Akkordmenetek](http://www.gitariskola.hu/osszhangzat_harmashangzat_dur.html)
-[Swacsa féle akkormenet táblázat](https://docs.google.com/spreadsheets/d/1K77eIpHKpg2Zwl55u8BaCyxrbtpnv20vU3Srl6up_Qk/edit?usp=sharing)
+[Pénzes féle gitáriskola - Akkordmenetek](http://www.gitariskola.hu/osszhangzat_harmashangzat_dur.html) | 
+[Swacsa féle akkormenet táblázat](https://docs.google.com/spreadsheets/d/1K77eIpHKpg2Zwl55u8BaCyxrbtpnv20vU3Srl6up_Qk/edit?usp=sharing) | 
+[Standard akkormenetek](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/standard_akkordmenetek.jpg)
 
 
 # 0
