@@ -4,7 +4,10 @@
 0 | A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#l) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
 
 
-It még lesz egy csomó minden
+Itt még lesz egy csomó minden
+
+[Pénzes féle gitáriskola - Akkordmenetek](http://www.gitariskola.hu/osszhangzat_harmashangzat_dur.html)
+[Swacsa féle akkormenet táblázat](https://docs.google.com/spreadsheets/d/1K77eIpHKpg2Zwl55u8BaCyxrbtpnv20vU3Srl6up_Qk/edit?usp=sharing)
 
 
 # 0
