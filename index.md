@@ -11,6 +11,7 @@ Meg a Gazsi
 [Swacsa féle akkormenet táblázat](https://docs.google.com/spreadsheets/d/1K77eIpHKpg2Zwl55u8BaCyxrbtpnv20vU3Srl6up_Qk/edit?usp=sharing) | 
 [Standard akkormenetek](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/standard_akkordmenetek.jpg)
 
+![Akkordmeeteim](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/standard_akkordmenetek.jpg)
 
 # 0
 [Dr. Bubó](https://raw.githubusercontent.com/swacsa/swacsali/gh-pages/R_50_Romhanyi-Dr_Bubo.png)
