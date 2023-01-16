@@ -3,6 +3,10 @@
 
 0 | A | B | C | D | E | F | G | H | I | J | K | [L](https://swacsa.github.io/swacsali/index.html#l) | M | N | O | P | [Q](https://swacsa.github.io/swacsali/index.html#q) | R | S | T | V | W | X | Y | Z
 
+## Ide költözött az oldal: 
+[Swacsali 3.0](https://sites.google.com/view/swacsali3/)
+
+
 
 Itt még lesz egy csomó minden
 Meg a Gazsi
